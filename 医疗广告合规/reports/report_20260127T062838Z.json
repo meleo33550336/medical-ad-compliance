@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-01-27T06:28:38.484958+00:00",
+  "input_text": "本品保证治愈，百分之百安全",
+  "ocr_text": "",
+  "tokens": [
+    "本品",
+    "保证",
+    "治愈",
+    "，",
+    "百分",
+    "百分之",
+    "百分之百",
+    "安全"
+  ],
+  "regex_matches": [
+    {
+      "word": "百分之百",
+      "span": [
+        7,
+        11
+      ],
+      "matched_text": "百分之百"
+    },
+    {
+      "word": "保证治愈",
+      "span": [
+        2,
+        6
+      ],
+      "matched_text": "保证治愈"
+    }
+  ],
+  "violation_rule_matches": [],
+  "semantic_matches": [],
+  "classifier": null,
+  "verdict": "疑似违规"
+}
