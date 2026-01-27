@@ -1,0 +1,11 @@
+pytesseract
+pillow
+jieba
+transformers
+sentence-transformers
+numpy
+scikit-learn
+regex
+torch
+datasets
+streamlit
